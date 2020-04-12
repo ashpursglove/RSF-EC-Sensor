@@ -1,0 +1,8 @@
+// location
+
+sudo nano /home/pi/.bashrc
+
+// example addition at end
+
+echo Running at boot 
+sudo python /home/pi/sample.py
